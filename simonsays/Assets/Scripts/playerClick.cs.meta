@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5a8bc1e49c97004085d1dcfdf1b1163
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redMaterial: {fileID: 2100000, guid: 40cfe45843500b540a8e89ba00ec183b, type: 2}
+  - blueMaterial: {fileID: 2100000, guid: 8a4358f07b92bd44b9985f814c723d79, type: 2}
+  - greenMaterial: {fileID: 2100000, guid: f99b84027a609da48ba3659c03d65cf3, type: 2}
+  - simonSaysLogic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
